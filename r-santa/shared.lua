@@ -22,7 +22,7 @@ CFG.ALL = {
             z = 937.65, 
             h = 224.58,  
             model = 'prop_xmas_tree_int', 
-            helptext = "~g~G~w~ - Recoger regalo" --the text 3d
+            helptext = "~g~G~w~ - collect gift" --the text 3d
         };
     },
         
@@ -36,7 +36,7 @@ CFG.ALL = {
             z = 6.29, 
             h = 224.58,  
             model = 'prop_prlg_snowpile', 
-            helptext =  "~g~G~w~ - Recoger pelota" --the text 3d
+            helptext =  "~g~G~w~ - pick up ball" --the text 3d
         }
         
     },
@@ -57,13 +57,13 @@ CFG.ALL = {
 
     ["LANGS"] = {
         --NOTIFY
-        ["HAVEREGAL"] = "~r~No tienes regalos que recoger"; 
-        ["HAVESNOW"] = "~r~Ya tienes una bola de nieve.";
-        ["ADDSNOW"] = "Has cogido una %s bolas de nieve.";
-        ["ADDITEMRANDOM"] = "Has cogido un %s.";
-        --PROGESS
-        ["PROGRESS"] = "Recogiendo regalo";
-        ["PROGRESSSNOW"] = "Recogiendo bola de nieve";
+         ["HAVEREGAL"] = "~r~You have no gifts to collect";
+         ["HAVESNOW"] = "~r~You already have a snow globe.";
+         ["ADDSNOW"] = "You have caught a %s snowballs.";
+         ["ADDITEMRANDOM"] = "You have taken a %s.";
+         --PROGESS
+         ["PROGRESS"] = "Collecting gift";
+         ["PROGRESSNOW"] = "Collecting Snowball";
 
     }
 
