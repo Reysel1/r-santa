@@ -11,3 +11,5 @@ end
 discord for suppprt: https://discord.gg/8Kqmxu7YH6
  ---
 REQUIREMENTS: QBCore - OxMYSQL
+
+Preview: https://streamable.com/row4f0
